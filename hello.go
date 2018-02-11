@@ -8,5 +8,5 @@ func SayHelloWorld() string {
 }
 
 func main() {
-	fmt.Printf(SayHelloWorld())
+	fmt.Print(SayHelloWorld())
 }
